@@ -1,4 +1,4 @@
-# Intricare - Product Dashboard (Starter)
+# Intricare - Product Dashboard 
 
 Starter project for Intricare Technologies front-end test (React + Vite).
 
