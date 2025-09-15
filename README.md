@@ -17,10 +17,3 @@ npm run dev
 ```
 
 3. Open http://localhost:5173
-
-## Notes
-- fakestoreapi may not persist changes server-side; we optimistically update local state.
-- Create a short 3–5 minute video showing the flows (fetch, add, edit, delete).
-
-## Submit
-- Zip the project or push to GitHub. Email link + video to `hr@intricaretech.com`.
